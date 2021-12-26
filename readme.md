@@ -1,5 +1,7 @@
 # GAME RULES
 
+Link: https://geradele.github.io/dice-game/
+
 - 2 players
 - Each round, the players roll the dice as many times as they wish.
   The result of each roll is added to the player's score for that round.
