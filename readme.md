@@ -1,6 +1,6 @@
 # GAME RULES
 
-Link: https://geradele.github.io/dice-game/
+Link: https://geradele.github.io/js-dice-game/
 
 - 2 players
 - Each round, the players roll the dice as many times as they wish.
