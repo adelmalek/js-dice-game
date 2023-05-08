@@ -3,7 +3,7 @@ GENERAL
 ******/
 
 :root {
-    --background-color: rgba(106, 89, 255, 0.432);
+    --background-color: rgba(20, 20, 20, 0.432);
 }
 
 * {
@@ -76,7 +76,7 @@ PLAYERS
 }
 
 .active {
-    background-color: var(--background-color);
+    background-color:  rgba(20, 20, 20, 0.9);
 }
 
 .active
